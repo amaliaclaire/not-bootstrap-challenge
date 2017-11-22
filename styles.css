@@ -1,0 +1,33 @@
+
+.awesome-story{
+  text-align: center;
+}
+
+.fa-check {
+  background-color: #51ad71;
+  font-size: 60px !important;
+  color: #ffffff;
+  border-radius: 50%;
+  padding:20px;
+
+}
+
+.fa-laptop {
+  background-color: #ad5151;
+  font-size: 60px !important;
+  color: #ffffff;
+  border-radius: 50%;
+  padding:20px;
+}
+
+.fa-download {
+  background-color: #5189ad;
+  font-size: 60px !important;
+  color: #ffffff;
+  border-radius: 50%;
+  padding:20px;
+}
+
+.three-bootstrap{
+  text-align: center
+}
